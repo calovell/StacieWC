@@ -53,10 +53,8 @@ body {
 }
 .carousel-inner > .item > img {
   position: absolute;
-  min-height: 110%;
+  min-height: 500px;
   min-width: 100%;
-  bottom:-5%;
-  top: -5%;
   overflow: hidden;
 }
 
